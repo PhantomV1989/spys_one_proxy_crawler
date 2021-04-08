@@ -3,7 +3,7 @@ A crawler that uses socks5 proxy servers from https://spys.one/en/socks-proxy-li
 
 
 # Design
-![alt text](https://github.com/PhantomV1989/spys_one_proxy_crawler/raw/master/design/img.png)https://codepen.io/PhantomV1989/pen/MWJvbrO
+![alt text](https://github.com/PhantomV1989/spys_one_proxy_crawler/raw/master/design/img.png)
 (see test example TestProcessesIntegration)
 
 
